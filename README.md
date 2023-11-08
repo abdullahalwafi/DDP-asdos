@@ -18,7 +18,7 @@ Silahkan dipelajari lebih lanjut. jika tidak difahami mangga tanyakan saja.
 
 
 <details>
-  <summary>More stats</summary>
+  <summary>More meme</summary>
 
 <div align="center" >
 

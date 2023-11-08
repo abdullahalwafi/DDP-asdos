@@ -8,3 +8,23 @@ Untuk melihat hasil praktikum dari beberapa pertemuan silahkan klik dibawah ini.
 - [Pertemuan 7](https://github.com/abdullahalwafi/DDP-asdos/tree/pertemuan7)
 
 Silahkan dipelajari lebih lanjut. jika tidak difahami mangga tanyakan saja.
+
+
+<div align="center" >
+
+<img src="https://raw.githubusercontent.com/abdullahalwafi/DDP-asdos/main/gambar/1.webp" width="32.5%">
+<img src="https://raw.githubusercontent.com/abdullahalwafi/DDP-asdos/main/gambar/2.webp" width="32.5%">
+<img src="https://raw.githubusercontent.com/abdullahalwafi/DDP-asdos/main/gambar/3.webp" width="32.5%">
+
+
+<details>
+  <summary>More stats</summary>
+
+<div align="center" >
+
+<img src="https://raw.githubusercontent.com/abdullahalwafi/DDP-asdos/main/gambar/4.webp" width="32.5%">
+<img src="https://raw.githubusercontent.com/abdullahalwafi/DDP-asdos/main/gambar/5.webp" width="32.5%">
+<img src="https://raw.githubusercontent.com/abdullahalwafi/DDP-asdos/main/gambar/6.webp" width="32.5%">
+
+
+</details>

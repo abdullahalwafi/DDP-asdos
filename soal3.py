@@ -1,6 +1,6 @@
-baris = int(input("Masukkan jumlah baris: "))
-
-for i in range(1, baris + 1):
-    for j in range(i):
-        print("*", end="")
-    print()
+for i in range(1,21):
+    if i % 3 == 0:
+        print("STT Nurul Fikri")
+    else:
+        print(i)
+    i+=1
